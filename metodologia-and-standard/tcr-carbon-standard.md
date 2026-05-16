@@ -24,4 +24,4 @@ The standard aims to address the criticalities of the VCM, such as limited trans
 * **Conclusions**: Summarises the TCR's alignment with climate action, its focus on Additionality, the transparent and interdisciplinary approach, risk mitigation mechanisms, emphasis on community consensus and environmental restoration, and Carborea's long-term commitment to sustainability and collaboration in the VCM.
 * **References**: Lists the UNI EN ISO standards, UNFCCC, IPCC, FSC, VCS and EC regulations that form the methodological and scientific basis of the standard.
 
-{% file src="../.gitbook/assets/TCRCarbonStandard_Rev_04.pdf" %}
+{% file src="/broken/files/Jkpb9KAF2er8RK26d8kH" %}

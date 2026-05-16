@@ -1,4 +1,4 @@
-﻿---
+---
 description: >-
   Ex-post verification certificate issued by Climate Standard attesting, with
   reasonable assurance and in accordance with ISO 14064-2, the generation of 8
@@ -10,5 +10,4 @@ coverY: 0
 
 # Ex-post Verification Certificate Climate Standard
 
-{% file src="../../../.gitbook/assets/Certificato Ex-Post_Climate Standard_Monaco Mezzo Piezzo (1).pdf" %}
-
+{% file src="../../../.gitbook/assets/Certificato Ex-Post_Climate Standard_Monaco Mezzo Piezzo.pdf" %}

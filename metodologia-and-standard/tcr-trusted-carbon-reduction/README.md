@@ -33,6 +33,4 @@ Its specific objectives include the **accurate and transparent quantification of
 * **11. Parameters, Formulas and Verification**: Details the quantification parameters and specific formulas used for calculating and verifying GHG emissions and removals associated with BAPs, both for the baseline and post-implementation scenario, with guidance on verification methods.
 * **12. Glossary of Terms and Acronyms**: Provides definitions of key terms and acronyms used in the document, to ensure clarity and understanding.
 
-
-
-{% file src="../../.gitbook/assets/TCR - Trusted Carbon Reduction_Rev-03.pdf" %}
+{% file src="../../.gitbook/assets/TCR Trusted Carbon Reduction Rev. 03 (EN).pdf" %}

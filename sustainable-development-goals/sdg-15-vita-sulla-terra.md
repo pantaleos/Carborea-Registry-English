@@ -1,11 +1,11 @@
-# SDG 15: Vita sulla Terra
+# SDG 15: Life on Land
 
-![](../.gitbook/assets/Goal-15.png)
+![](../.gitbook/assets/Goal-15.png)
 
-**Obiettivo 15.1:** Garantire la conservazione, il ripristino e l'uso sostenibile degli ecosistemi terrestri e di acqua dolce interni.
+**Target 15.1:** Ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems.
 
-\
-**Misurazione dell'impatto:** Misurare l'aumento della superficie rimboschita, il recupero della biodiversità e il ripristino del suolo utilizzando immagini satellitari e indagini ecologiche.
+\
+**Impact measurement:** Measure the increase in reforested area, biodiversity recovery and soil restoration using satellite imagery and ecological surveys.
 
 
 

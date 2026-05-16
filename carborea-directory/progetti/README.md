@@ -2,5 +2,5 @@
 icon: tree
 ---
 
-# Progetti
+# Projects
 

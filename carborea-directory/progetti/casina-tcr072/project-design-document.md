@@ -1,5 +1,5 @@
----
-description: Descrizione obiettivi di certificazione del Progetto
+﻿---
+description: Description of the Project's certification objectives
 icon: bars-progress
 cover: ../../../.gitbook/assets/Image Terreni.jpg
 coverY: 0
@@ -9,32 +9,32 @@ coverY: 0
 
 **Project Proponent:**&#x20;
 
-* **Organizzazione:** Olivami ETS&#x20;
-* **Contatto:** Simone Chiriatti
-* **Indirizzo:** VIA SOLETO, 116 73025 Martano (LE) - Italia
-* **Telefono:**+393283149324
-* **Sito:** [www.olivami.com](http://www.olivami.com)
+* **Organization:** Olivami ETS&#x20;
+* **Contact:** Simone Chiriatti
+* **Address:** VIA SOLETO, 116 73025 Martano (LE) - Italy
+* **Phone:**+393283149324
+* **Website:** [www.olivami.com](http://www.olivami.com)
 * **E-mail:** info.olivami@gmail.com
-* **Responsabilità:** responsabile della gestione complessiva, dell'attuazione, del monitoraggio e della segnalazione del progetto. Inoltre, supervisiona il coinvolgimento dei contadini locali, l'applicazione di pratiche agricole sostenibili e l'utilizzo della tecnologia per transazioni di crediti di carbonio migliorate.
+* **Responsibility:** responsible for overall management, implementation, monitoring and reporting of the project. Also oversees the involvement of local farmers, the application of sustainable agricultural practices and the use of technology for enhanced carbon credit transactions.
 
 **Project Developer:**&#x20;
 
-* **Organizzazione:** OLIVAMI ETS
-* **Contatto:** Simone Chiriatti
-* **Indirizzo:** VIA SOLETO, 116 73025 Martano (LE) - Italia
-* **Telefono:**+393283149324
-* **Sito:** [www.olivami.com](http://www.olivami.com)
+* **Organization:** OLIVAMI ETS
+* **Contact:** Simone Chiriatti
+* **Address:** VIA SOLETO, 116 73025 Martano (LE) - Italy
+* **Phone:**+393283149324
+* **Website:** [www.olivami.com](http://www.olivami.com)
 * **E-mail:** info.olivami@gmail.com
-* **Responsabilità:** responsabile della redazione del presente documento e delle informazioni in esso riportate.
+* **Responsibility:** responsible for the preparation of this document and the information contained therein.
 
-**Descrizione Progetto:**
+**Project Description:**
 
-* **Località:** VERNOLE, Lecce, Puglia, Italia, LAT.40.293566 LONG.18.305929
-* **Dimensione:** 3.72.84 ha
-* **Data Piantumazione:** 2021
-* **Totale piante messe a dimora:** 866 (alberi d’ulivo Leccino)
-* **Età media delle piante al 25/11/2025:** 4 anni
-* **Media diametro tronco pianta al 25/11/2025:** 19,00 cm
-* **Altezza media al 25/11/2025:** 4,5 m
+* **Location:** VERNOLE, Lecce, Puglia, Italy, LAT.40.293566 LONG.18.305929
+* **Size:** 3.72.84 ha
+* **Planting Date:** 2021
+* **Total plants planted:** 866 (Leccino olive trees)
+* **Average plant age as of 25/11/2025:** 4 years
+* **Average trunk diameter as of 25/11/2025:** 19,00 cm
+* **Average height as of 25/11/2025:** 4,5 m
 
 {% file src="../../../.gitbook/assets/PDD_ANTONIO PASCALI_CASINA.pdf" %}

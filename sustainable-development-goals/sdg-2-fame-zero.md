@@ -1,11 +1,11 @@
-# SDG 2: Fame Zero
+# SDG 2: Zero Hunger
 
-![](../.gitbook/assets/Goal-02.png)
+![](../.gitbook/assets/Goal-02.png)
 
-**Obiettivo 2.4:** Entro il 2030, garantire sistemi di produzione alimentare sostenibili e implementare pratiche agricole resilienti che aumentino la produttività e la produzione, contribuiscano a preservare gli ecosistemi e rafforzino la capacità di adattamento ai cambiamenti climatici.
+**Target 2.4:** By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, contribute to maintaining ecosystems and strengthen capacity for adaptation to climate change.
 
-\
-**Misurazione dell'impatto:** Monitorare la salute del suolo, i livelli di biodiversità e la resilienza delle aree rimboschite attraverso indagini ecologiche e immagini satellitari, garantendo pratiche agricole sostenibili.
+\
+**Impact measurement:** Monitor soil health, biodiversity levels and the resilience of reforested areas through ecological surveys and satellite imagery, ensuring sustainable agricultural practices.
 
 
 

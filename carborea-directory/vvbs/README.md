@@ -1,7 +1,6 @@
 ---
-description: 'Elenco dei VVB (Validation & Verification Bodies) accreditati:'
+description: 'List of accredited VVBs (Validation & Verification Bodies):'
 icon: badge-check
 ---
 
 # VVBs
-

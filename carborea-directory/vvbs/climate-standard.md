@@ -4,10 +4,10 @@ icon: angle-right
 
 # Climate Standard
 
-Climate Standard è un organismo di validazione e verifica indipendente per le aziende che vogliono dare credibilità alle proprie strategie di sostenibilità. Il suo ruolo fondamentale è quello di **verificare e certificare in modo imparziale** gli impegni aziendali attraverso un processo di smart audit.
+Climate Standard is an independent validation and verification body for companies that want to give credibility to their sustainability strategies. Its fundamental role is to **impartially verify and certify** corporate commitments through a smart audit process.
 
-In qualità di ente terzo, Climate Standard non si limita a fornire un servizio, ma agisce come un **garante della veridicità delle dichiarazioni di sostenibilità**. Lo fa attraverso una piattaforma innovativa che permette alle organizzazioni di ottenere e gestire certificazioni di sostenibilità ISO senza le complessità dei metodi tradizionali.
+As a third-party body, Climate Standard does not merely provide a service, but acts as a **guarantor of the truthfulness of sustainability declarations**. It does so through an innovative platform that allows organisations to obtain and manage ISO sustainability certifications without the complexities of traditional methods.
 
-Oltre alle emissioni, Climate Standard valida e certifica strategie relative a **biodiversità, parità di genere e conformità alla direttiva UE sul Greenwashing**. Supportato da leader nel settore del venture capital e delle certificazioni, Climate Standard si propone come un partner affidabile per una convalida rigorosa e credibile delle performance di sostenibilità aziendali.
+Beyond emissions, Climate Standard validates and certifies strategies relating to **biodiversity, gender equality and compliance with the EU Anti-Greenwashing Directive**. Supported by leaders in the venture capital and certification sectors, Climate Standard positions itself as a reliable partner for rigorous and credible validation of corporate sustainability performance.
 
 {% embed url="https://climatestandard.net/il-team/" %}

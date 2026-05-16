@@ -1,7 +1,6 @@
----
+﻿---
 description: >-
-  Report di verifica del raggiungimento degli obiettivi di certificazione del
-  Progetto
+  Verification report on the achievement of the Project's certification objectives
 icon: list-check
 cover: ../../../.gitbook/assets/Image Terreni.jpg
 coverY: 0

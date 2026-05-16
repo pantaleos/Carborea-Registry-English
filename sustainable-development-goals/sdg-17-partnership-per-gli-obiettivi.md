@@ -1,11 +1,11 @@
-# SDG 17: Partnership per gli Obiettivi
+# SDG 17: Partnerships for the Goals
 
 ![](../.gitbook/assets/Goal-17.png)
 
-**Obiettivo 17.17:** Incoraggiare e promuovere partnership efficaci tra pubblico, pubblico-privato e società civile.
+**Target 17.17:** Encourage and promote effective public, public-private and civil society partnerships.
 
-\
-**Misurazione dell'impatto:** Documentare il numero e l'efficacia delle partnership, valutando i risultati dei progetti e i contributi agli obiettivi di sostenibilità.
+\
+**Impact measurement:** Document the number and effectiveness of partnerships, evaluating project outcomes and contributions to sustainability objectives.
 
 
 

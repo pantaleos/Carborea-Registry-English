@@ -1,11 +1,11 @@
-# SDG 9: Industria, Innovazione e Infrastrutture
+# SDG 9: Industry, Innovation and Infrastructure
 
-![](../.gitbook/assets/Goal-09.png)
+![](../.gitbook/assets/Goal-09.png)
 
-**Obiettivo 9.5:** Migliorare la ricerca scientifica, aggiornare le capacità tecnologiche e incoraggiare l'innovazione.
+**Target 9.5:** Enhance scientific research, upgrade the technological capabilities and encourage innovation.
 
-\
-**Misurazione dell'impatto:** Adottare la tecnologia blockchain per il tracciamento dei crediti di carbonio, utilizzo di immagini satellitari, dispositivi IoT (Internet of Things) ed altri dispositivi di remote sensing, per il monitoraggio dell'atmosfera, degli alberi e del suolo, utilizzo di strumenti di valutazione e criteri di previsione e prevenzione e mitigazione dei rischi basati sull'intelligenza artificiale.
+\
+**Impact measurement:** Adopt blockchain technology for carbon credit tracking, use of satellite imagery, IoT (Internet of Things) devices and other remote sensing devices for monitoring the atmosphere, trees and soil, use of assessment tools and AI-based risk prediction, prevention and mitigation criteria.
 
 
 

@@ -4,25 +4,25 @@ icon: hands-holding-diamond
 
 # Verra VM00042
 
-Lo scopo della metodologia Verra VM0042, intitolata **"METHODOLOGY FOR IMPROVED AGRICULTURAL LAND MANAGEMENT" (Metodologia per la Gestione Migliorata dei Terreni Agricoli)**, è quello di fornire procedure per **stimare le riduzioni e le rimozioni delle emissioni di gas ad effetto serra (GHG)**, specificamente CO2, CH4 e N2O, risultanti dall'adozione di pratiche di gestione migliorata dei terreni agricoli (ALM).
+The scope of the Verra VM0042 methodology, titled **"METHODOLOGY FOR IMPROVED AGRICULTURAL LAND MANAGEMENT"**, is to provide procedures for **estimating reductions and removals of greenhouse gas (GHG) emissions**, specifically CO2, CH4 and N2O, resulting from the adoption of improved agricultural land management (ALM) practices.
 
-Questa metodologia è compatibile con l'agricoltura rigenerativa e si concentra in particolare sull'**aumento dello stoccaggio di carbonio organico nel suolo (SOC)**.
+This methodology is compatible with regenerative agriculture and focuses in particular on the **increase of organic carbon storage in soil (SOC)**.
 
-Più in dettaglio, la VM0042:
+More specifically, VM0042:
 
-* **Quantifica le riduzioni e le rimozioni di GHG**: Stabilisce procedure per quantificare, monitorare e rendicontare le riduzioni delle emissioni di gas serra (CO2, CH4 e N2O).
-* **Focalizzazione sul carbonio organico del suolo**: Ha un'enfasi particolare sull'incremento dello stoccaggio di carbonio organico nel suolo.
-* **Neutralità rispetto ai programmi GHG**: È progettata per essere neutrale rispetto ai programmi sui GHG (sia volontari che obbligatori, interni o esterni), ma può essere utilizzata in associazione a essi.
-* **Ambito di applicabilità globale**: Si applica a un'ampia gamma di attività progettuali che aumentano lo stoccaggio di SOC e/o diminuiscono le emissioni nette di CO2, CH4 e N2O dalle operazioni ALM rispetto allo scenario di riferimento. La metodologia è applicabile a livello globale.
-* **Condizioni di applicabilità**: È applicabile se i progetti introducono o implementano nuove modifiche alle pratiche ALM preesistenti che migliorano la gestione dei fertilizzanti, la gestione dell'acqua/irrigazione, riducono la lavorazione del terreno/migliorano la gestione dei residui, migliorano la semina e la raccolta delle colture (ad esempio, agroforestazione migliorata, rotazioni colturali, colture di copertura) e/o migliorano le pratiche di pascolo. Tali modifiche quantitative devono superare il 5% del valore preesistente. Si applica a terreni che sono seminativi o pascoli alla data di inizio del progetto.
-* **Determinazione della linea di base e dell'addizionalità**: Utilizza un "project method" per determinare l'addizionalità e la linea di base dei crediti. La linea di base presuppone la continuazione delle pratiche ALM pre-progetto. L'addizionalità è dimostrata tramite un'analisi delle barriere e mostrando che il cambiamento di pratica non è una pratica comune (definita come un tasso di adozione superiore al 20%).
-* **Approcci di quantificazione**: Fornisce tre approcci per quantificare le riduzioni e le rimozioni di emissioni:
-  1. **Quantification Approach 1: Measure and Model** (Misura e Modella) – utilizza un modello biogeochimico per stimare i flussi di GHG relativi alle variazioni di SOC, alla metanogenesi del suolo e all'uso di fertilizzanti azotati e specie azotofissatrici.
-  2. **Quantification Approach 2: Measure and Re-Measure** (Misura e Rimisura) – utilizza la misurazione diretta per quantificare le variazioni delle scorte di SOC. Questo approccio è rilevante quando i modelli non sono disponibili o non sono ancora stati validati per una particolare regione, coltura o pratica. Include la misurazione diretta delle variazioni di SOC in "baseline control sites".
-  3. **Quantification Approach 3: Default Factors** (Fattori di Default) – i flussi di CO2 da combustibili fossili e i flussi di N2O e CH4 (esclusa la metanogenesi del suolo) sono calcolati utilizzando fattori di emissione predefiniti.
-* **Gestione dell'incertezza**: Include una sezione dettagliata per la quantificazione e la deduzione dell'incertezza associata alle stime delle riduzioni e rimozioni di GHG, a seconda dell'approccio di quantificazione utilizzato.
-* **Prevenzione delle fughe**: Contiene disposizioni per tenere conto delle fughe di emissioni, come quelle derivanti da nuove applicazioni di ammendanti organici, spostamento del bestiame o cali di produttività.
+* **Quantifies GHG reductions and removals**: Establishes procedures for quantifying, monitoring and reporting reductions in greenhouse gas emissions (CO2, CH4 and N2O).
+* **Focus on soil organic carbon**: Places particular emphasis on increasing organic carbon storage in soil.
+* **Neutrality with respect to GHG programmes**: Designed to be neutral with respect to GHG programmes (both voluntary and mandatory, internal or external), but can be used in association with them.
+* **Global applicability scope**: Applies to a wide range of project activities that increase SOC storage and/or decrease net CO2, CH4 and N2O emissions from ALM operations relative to the reference scenario. The methodology is applicable globally.
+* **Applicability conditions**: Applicable if projects introduce or implement new modifications to pre-existing ALM practices that improve fertiliser management, water/irrigation management, reduce tillage/improve residue management, improve crop sowing and harvesting (e.g. improved agroforestry, crop rotations, cover crops) and/or improve grazing practices. Such quantitative modifications must exceed 5% of the pre-existing value. Applies to land that is arable or pasture at the project start date.
+* **Determination of baseline and additionality**: Uses a "project method" to determine additionality and the credit baseline. The baseline assumes continuation of pre-project ALM practices. Additionality is demonstrated through a barrier analysis and by showing that the practice change is not a common practice (defined as an adoption rate above 20%).
+* **Quantification approaches**: Provides three approaches for quantifying emission reductions and removals:
+  1. **Quantification Approach 1: Measure and Model** – uses a biogeochemical model to estimate GHG fluxes related to changes in SOC, soil methanogenesis and use of nitrogen fertilisers and nitrogen-fixing species.
+  2. **Quantification Approach 2: Measure and Re-Measure** – uses direct measurement to quantify changes in SOC stocks. This approach is relevant when models are not available or have not yet been validated for a particular region, crop or practice. Includes direct measurement of SOC changes in "baseline control sites".
+  3. **Quantification Approach 3: Default Factors** – CO2 fluxes from fossil fuels and N2O and CH4 fluxes (excluding soil methanogenesis) are calculated using default emission factors.
+* **Uncertainty management**: Includes a detailed section for the quantification and deduction of uncertainty associated with estimates of GHG reductions and removals, depending on the quantification approach used.
+* **Leakage prevention**: Contains provisions for accounting for emission leakage, such as that arising from new applications of organic amendments, livestock displacement or productivity declines.
 
-La metodologia è stata sviluppata da TerraCarbon LLC e Indigo Ag nella sua versione 1.0 (approvata il 19 ottobre 2020) e la versione 2.0 (30 maggio 2023) è stata preparata da Verra con contributi da TerraCarbon LLC e altri esperti. Si basa su metodologie precedenti e strumenti del Clean Development Mechanism (CDM).
+The methodology was developed by TerraCarbon LLC and Indigo Ag in its version 1.0 (approved on 19 October 2020) and version 2.0 (30 May 2023) was prepared by Verra with contributions from TerraCarbon LLC and other experts. It is based on previous methodologies and tools from the Clean Development Mechanism (CDM).
 
 {% embed url="https://verra.org/methodologies/vm0042-improved-agricultural-land-management-v2-1/" %}

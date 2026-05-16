@@ -1,11 +1,11 @@
-# SDG 12: Consumo e Produzione Responsabili
+# SDG 12: Responsible Consumption and Production
 
-![](../.gitbook/assets/Goal-12.png)
+![](../.gitbook/assets/Goal-12.png)
 
-**Obiettivo 12.6:** Incoraggiare le aziende ad adottare pratiche sostenibili e a integrare le informazioni sulla sostenibilità nel loro ciclo di rendicontazione.
+**Target 12.6:** Encourage companies to adopt sustainable practices and to integrate sustainability information into their reporting cycle.
 
-\
-**Misurazione dell'impatto:** monitorare il numero di aziende partner che compensano le emissioni attraverso i crediti di carbonio di Carborea e i loro miglioramenti nella rendicontazione della sostenibilità.
+\
+**Impact measurement:** Monitor the number of partner companies offsetting emissions through Carborea's carbon credits and their improvements in sustainability reporting.
 
 
 

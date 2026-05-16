@@ -1,11 +1,11 @@
-# SDG 8: Lavoro dignitoso e crescita economica
+# SDG 8: Decent Work and Economic Growth
 
-![](../.gitbook/assets/Goal-08.png)
+![](../.gitbook/assets/Goal-08.png)
 
-**Obiettivo 8.2:** Raggiungere livelli più elevati di produttività economica attraverso la diversificazione, l'aggiornamento tecnologico e l'innovazione, anche concentrandosi sui settori ad alto valore aggiunto e ad alta intensità di manodopera.
+**Target 8.2:** Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including by focusing on high value-added and labour-intensive sectors.
 
-\
-**Misurazione dell'impatto:** Valutare la crescita economica nel settore agricolo monitorando l'aumento della produttività, il fatturato derivante dalla produzione di olio d'oliva e l'adozione di tecnologie nelle pratiche agricole.
+\
+**Impact measurement:** Assess economic growth in the agricultural sector by monitoring productivity increases, revenue from olive oil production and technology adoption in agricultural practices.
 
 
 

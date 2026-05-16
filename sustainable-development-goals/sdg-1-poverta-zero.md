@@ -1,11 +1,11 @@
-# SDG 1: Povertà Zero
+# SDG 1: No Poverty
 
-![](../.gitbook/assets/Goal-01.png)
+![](../.gitbook/assets/Goal-01.png)
 
-**Obiettivo 1.4:** Entro il 2030, garantire che tutti gli uomini e le donne, in particolare i poveri e i vulnerabili, abbiano pari diritti alle risorse economiche, inclusi la proprietà e il controllo della terra e delle risorse naturali.
+**Target 1.4:** By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, including ownership and control over land and natural resources.
 
-\
-**Misurazione dell'impatto:** monitorare il numero di agricoltori che ricevono sostegno finanziario e la sicurezza della proprietà terriera attraverso la documentazione legale, garantendo stabilità economica a lungo termine e accesso alle risorse.
+\
+**Impact measurement:** Monitor the number of farmers receiving financial support and land security through legal documentation, ensuring long-term economic stability and access to resources.
 
 
 

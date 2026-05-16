@@ -1,5 +1,5 @@
----
-description: Scheda tecnica introduttiva del Progetto
+﻿---
+description: Introductory technical report of the Project
 icon: file-lines
 cover: ../../../.gitbook/assets/Image Terreni.jpg
 coverY: 0

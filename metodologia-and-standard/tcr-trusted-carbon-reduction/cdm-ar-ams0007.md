@@ -4,21 +4,21 @@ icon: hands-holding-diamond
 
 # CDM AR-AMS0007
 
-Il documento **AR-AMS0007** è una **metodologia per attività di progetto di afforestazione e riforestazione (A/R) su piccola scala nell'ambito del Meccanismo di Sviluppo Pulito (CDM)**.
+The **AR-AMS0007** document is a **methodology for small-scale afforestation and reforestation (A/R) project activities under the Clean Development Mechanism (CDM)**.
 
-Lo scopo principale di questa metodologia è quello di consentire e fornire le procedure per:
+The main purpose of this methodology is to enable and provide procedures for:
 
-* **Afforestazione e riforestazione di terreni non classificati come zone umide**: La metodologia si applica a qualsiasi terreno che non rientri nella categoria delle zone umide. Le attività di A/R su piccola scala implementate nelle zone umide sono coperte da una metodologia specifica, "AR-AMS0003: Afforestation and reforestation project activities implemented on wetlands".
-* **Gestione del carbonio organico nel suolo (SOC)**: Se il terreno nella sua destinazione d'uso iniziale presenta un contenuto di carbonio organico nel suolo (SOC) che si prevede essere superiore a quello che si avrebbe sotto l'uso "forestale", la metodologia impone una restrizione: la perturbazione del suolo nel progetto non deve superare il **10%** dell'area. Questo può accadere a causa della natura dei suoli (ad esempio, suoli organici) o di attività antropiche (ad esempio, suoli non lavorati con aggiunta di materia organica esterna).
-* **Ampia applicabilità**: A parte la restrizione sulla perturbazione del suolo per certi tipi di suoli e pratiche di uso del suolo, la metodologia ha un ampio campo di applicazione. Non è necessario, ad esempio, che il terreno da afforestare o riforestare sia degradato.
+* **Afforestation and reforestation of land not classified as wetlands**: The methodology applies to any land that does not fall within the wetland category. Small-scale A/R activities implemented in wetlands are covered by a specific methodology, "AR-AMS0003: Afforestation and reforestation project activities implemented on wetlands".
+* **Soil organic carbon (SOC) management**: If the land in its initial land use has a soil organic carbon (SOC) content expected to be higher than what would occur under "forest" use, the methodology imposes a restriction: soil disturbance in the project must not exceed **10%** of the area. This may occur due to the nature of the soils (e.g. organic soils) or anthropogenic activities (e.g. untilled soils with the addition of external organic matter).
+* **Broad applicability**: Apart from the restriction on soil disturbance for certain soil types and land use practices, the methodology has a broad field of application. It is not necessary, for example, that the land to be afforested or reforested be degraded.
 
-Nello specifico, la metodologia AR-AMS0007 copre i seguenti tipi di attività di progetto A/R su piccola scala:
+Specifically, the AR-AMS0007 methodology covers the following types of small-scale A/R project activities:
 
-* **Prati a terreni forestali**
-* **Terreni coltivati a terreni forestali**
-* **Insediamenti a terreni forestali**
-* **Qualsiasi altro tipo di terreno eccetto le zone umide**
+* **Grassland to forest land**
+* **Cropland to forest land**
+* **Settlements to forest land**
+* **Any other type of land except wetlands**
 
-L'obiettivo è facilitare i progetti di afforestazione e riforestazione su piccola scala, fornendo linee guida per la contabilità dei cambiamenti degli stock di carbonio e la rendicontazione delle rimozioni nette di GHG antropogeniche, con particolare attenzione alla protezione dei suoli con alto contenuto di carbonio organico.
+The objective is to facilitate small-scale afforestation and reforestation projects, providing guidelines for accounting for changes in carbon stocks and reporting net anthropogenic GHG removals, with particular attention to the protection of soils with high organic carbon content.
 
 {% embed url="https://cdm.unfccc.int/methodologies/DB/J6ZHLX1C3AEMSZ52PWIII6D2AOJZUB" %}

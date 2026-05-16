@@ -1,14 +1,14 @@
----
+﻿---
 description: >-
-  Certificato di verifica ex-post emesso da Climate Standard che attesta, con
-  livello di garanzia ragionevole e secondo la ISO 14064-2, la generazione di 33
-  crediti di carbonio dal Progetto
+  Ex-post verification certificate issued by Climate Standard attesting, with
+  reasonable assurance and in accordance with ISO 14064-2, the generation of 33
+  carbon credits from the Project
 icon: file-certificate
 cover: ../../../.gitbook/assets/Image Terreni.jpg
 coverY: 0
 ---
 
-# Certificato Verifica Ex-post Climate Standard
+# Ex-post Verification Certificate Climate Standard
 
 {% file src="../../../.gitbook/assets/Certificato Ex-Post Climate Standard_Cisarieddu.pdf" %}
 

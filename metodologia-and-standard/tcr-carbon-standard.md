@@ -1,0 +1,27 @@
+---
+icon: caret-right
+---
+
+# TCR Carbon Standard
+
+Il **TCR Carbon Standard**, sviluppato da Carborea SB Srl, è un **quadro strutturato e rigoroso** progettato per il **calcolo del sequestro di carbonio e la compensazione delle emissioni di gas serra (GHG)** all'interno del **Mercato Volontario del Carbonio (VCM)**. Il suo obiettivo principale è **supportare e facilitare i progetti di Afforestazione e Rimboschimento (A/R) e le pratiche agricole sostenibili**, fornendo requisiti, criteri e prassi per la generazione di **crediti di carbonio verificabili**.
+
+Lo standard si propone di affrontare le criticità del VCM, come la trasparenza limitata e la frammentazione, sfruttando la **tecnologia blockchain** per assicurare **trasparenza, tracciabilità e integrità** in tutto il processo di certificazione dei crediti di carbonio. È fondato su principi chiave quali l'**Addizionalità** (garantendo che le riduzioni non si sarebbero verificate senza l'intervento) e la **Permanenza** (assicurando il sequestro del carbonio a lungo termine). Contribuisce a **ridurre le emissioni complessive di CO₂**, a **favorire il sequestro del carbonio atmosferico** e a allinearsi agli obiettivi internazionali sul clima, promuovendo al contempo l'**integrità ambientale** e generando **benefici sociali ed economici** per le comunità locali.
+
+***
+
+#### Sommario dei Capitoli del TCR Carbon Standard
+
+* **1. Introduzione**: Presenta Carborea e la sua missione di innovazione blockchain per la sostenibilità, il contesto di sviluppo del TCR Carbon Standard per il Mercato Volontario del Carbonio (VCM) con focus sui progetti di Afforestazione e Rimboschimento (A/R), e come lo standard mira a superare le sfide del VCM tramite rigore metodologico e trasparenza.
+* **2. Termini e Definizioni**: Fornisce un glossario di termini chiave come "TCR Carbon Standard", "Afforestazione", "Rimboschimento", "Crediti di Carbonio", "Addizionalità", "Permanenza" e "Tecnologia Blockchain", essenziali per una chiara comprensione della metodologia.
+* **3. Principi**: Delinea i quattro principi fondamentali che guidano il TCR Carbon Standard: **Integrità Ambientale** (tutela degli ecosistemi), **Benefici Sociali ed Economici Connessi** (sviluppo locale e inclusione), **Permanenza e Addizionalità** (autenticità e durabilità delle riduzioni) e **Trasparenza e Responsabilità** (verifica indipendente e accountability).
+* **4. Metodologia per i Progetti A/R**: Descrive l'approccio sistematico per la valutazione, misurazione e verifica del sequestro di carbonio nei progetti A/R. Include le fasi di idoneità del progetto, stima delle emissioni di riferimento (baseline), valutazione dell'addizionalità, contabilità del carbonio (considerando crescita/decadimento della biomassa), gestione delle perdite e della permanenza (incluso il buffer), fattori climatici e di inquinamento, e l'importanza del Monitoraggio, Rapporto e Verifica (MRV), anche con l'uso di dati aerei e satellitari supportati da Machine Learning e Intelligenza Artificiale.
+* **5. Idoneità del Progetto e Requisiti**: Dettaglia i rigorosi criteri che i progetti devono soddisfare per l'onboarding e l'emissione di crediti, tra cui le informazioni del richiedente e del progetto, la prova di addizionalità, l'impegno a lungo termine (minimo 20 anni), l'assenza di deforestazione intenzionale, l'uso di vegetazione autoctona o specie non invasive e l'assenza di crediti precedenti per evitare la doppia contabilizzazione. Vengono anche delineate le misure di mitigazione del rischio in caso di danni al progetto.
+* **6. Il Ruolo della Tecnologia Blockchain**: Illustra come la blockchain sia fondamentale per garantire accuratezza e affidabilità nell'emissione dei crediti di carbonio, grazie all'uso di Smart Contracts per l'approvazione e la verifica della metodologia, dati in tempo reale per il monitoraggio, emissione automatizzata, ritiro notarizzato e un registro pubblico immutabile per la trasparenza e la tracciabilità.
+* **7. Coinvolgimento del Mercato e degli Stakeholder**: Sottolinea l'importanza della partecipazione attiva di governi, imprese, ONG, investitori e comunità locali attraverso educazione, incentivi, trasparenza, coinvolgimento locale e collaborazione internazionale per il successo e la sostenibilità del mercato dei crediti di carbonio.
+* **8. Governance e Amministrazione**: Descrive la struttura di gestione del TCR Carbon Standard, inclusi l'Organo di Governo (Comitato Direttivo, Gruppo Tecnico di Valutazione, Consiglio di Trasparenza e Conformità), la Segreteria degli Standard, i processi di revisione periodica e un sistema per la risoluzione dei conflitti e i meccanismi di appello.
+* **9. Conformità con gli Standard Esistenti**: Evidenzia l'impegno del TCR nell'armonizzazione con i principali standard del mercato volontario del carbonio, come Verra VCS, Gold Standard, ISO 14064-2 e CDM dell'UNFCCC, per garantire l'integrità e l'interoperabilità dei crediti emessi.
+* **Conclusioni**: Riassume l'allineamento del TCR con l'azione climatica, il suo focus sull'Addizionalità, l'approccio trasparente e interdisciplinare, i meccanismi di mitigazione del rischio, l'enfasi sul consenso della comunità e il ripristino ambientale, e l'impegno a lungo termine di Carborea per la sostenibilità e la collaborazione nel VCM.
+* **Riferimenti**: Elenca le norme UNI EN ISO, UNFCCC, IPCC, FSC, VCS e i regolamenti CE che costituiscono la base metodologica e scientifica dello standard.
+
+{% file src="../.gitbook/assets/TCRCarbonStandard_Rev_04.pdf" %}

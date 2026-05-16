@@ -1,0 +1,33 @@
+---
+icon: caret-right
+---
+
+# PdR AgriCarbon
+
+La **Prassi di Riferimento AgriCarbon** è uno strumento fondamentale che fornisce le linee guida a tutti i soggetti che propongono e sviluppano progetti di afforestazione e riforestazione, definisce criteri e indicazioni puntuali affinchè gli enti di validazione e verifica (VVBs) possano condurre le proprie attività di rapporto e certificazione.&#x20;
+
+Nello specifico :
+
+1. **Guida per la Generazione di Crediti di Carbonio:** Il documento fornisce una guida a livello di progetto per la creazione di attività destinate alla generazione di riduzioni delle emissioni e aumenti delle rimozioni di GHG, e specifica le azioni da intraprendere per certificare tali attività e generare crediti di carbonio. La metodologia TCR, validata da RINA, fornisce un quadro robusto per la quantificazione, il monitoraggio e la rendicontazione dei GHG in agricoltura.
+2. **Ambito di Applicazione per Afforestazione e Riforestazione:**
+   * La guida si rivolge specificamente a progetti che includono la gestione del suolo, come la **coltivazione di colture arboree e l'agroforestazione**, e che generano rimozioni nette di GHG attraverso l'assorbimento di CO2 dall'atmosfera (ad esempio, tramite l'integrazione di siepi e alberi nei campi coltivati).
+   * Per le attività di afforestazione e riforestazione, viene adottata la metodologia **CDM AR-AMS0007 v3.1** del Meccanismo per lo Sviluppo Pulito (CDM) dell'UNFCCC.
+   * Vengono forniti requisiti specifici, come l'obbligo di utilizzare esclusivamente **specie non invasive (preferibilmente autoctone)** e la verifica dell'assenza di deforestazione intenzionale nei cinque anni precedenti l'inizio del progetto.
+3. **Indicazioni e Direttive per i Proponenti di Progetto sui GHG:**
+   * **Pianificazione del Progetto:** Include requisiti per la pianificazione, l'identificazione e la selezione delle sorgenti, degli assorbitori e dei serbatoi (SSR) di GHG rilevanti per la baseline e il progetto.
+   * **Misurazione della Baseline (Scenario di Riferimento):** Descrive le azioni sistematiche per stabilire lo scenario "business-as-usual" (BAU), raccogliendo dati storici dettagliati sulle pratiche agricole convenzionali. Per un approccio conservativo, le emissioni di CO2 derivanti dalle perdite di carbonio organico del suolo (SOC) nei terreni coltivati della baseline sono spesso considerate pari a zero.
+   * **Misurazione Annuale di Progetto:** Delinea come calcolare il beneficio netto di rimozione del carbonio (CRbaseline – CRtotal – GHGincrease), quantificando le rimozioni di CO2 generate dalle attività del progetto come differenza tra lo scenario del progetto e la baseline standardizzata. Include misurazioni del **Carbonio Organico del Suolo (SOC)**, della biomassa vivente (soprasuolo e sottosuolo) e dei prodotti legnosi raccolti.
+   * **Requisiti di Validazione (ex-ante):** I proponenti devono assicurare il **design del progetto, l'idoneità del sito e del terreno, l'addizionalità dei benefici climatici, la permanenza dei benefici (con un buffer di crediti minimo del 10%), la valutazione del rischio, l'assenza di deforestazione intenzionale e specie invasive, la qualità dei dati e la conformità agli standard**. Devono anche definire chiaramente la proprietà dei crediti.
+   * **Responsabilità di Monitoraggio e Reportistica:** Il proponente è responsabile della compilazione e dell'invio dei rapporti annuali, che includono i dati sulle rimozioni nette di carbonio, e della gestione della qualità dei dati (QA/QC).
+4. **Guida per gli Enti di Validazione e Verifica (VVBs) nella Redazione dei Rapporti:**
+   * **Ruolo del VVB:** Gli enti di validazione e verifica (VVB) sono organismi indipendenti e competenti che garantiscono l'integrità e la credibilità dei crediti di carbonio. La validazione (ex-ante) valuta la ragionevolezza delle assunzioni, dei limiti e dei metodi prima dell'attuazione del progetto, mentre la verifica (ex-post) valuta le dichiarazioni con dati storici e informazioni dopo l'attuazione.
+   * **Processo di Validazione:** Durante la validazione, il VVB esamina il design del progetto, lo scenario di riferimento, l'addizionalità, il piano di monitoraggio, la permanenza e la conformità agli standard. Il validatore terzo fornisce rapporti dettagliati che delineano i risultati delle valutazioni, inclusi nel Documento di Progettazione del Progetto (PDD).
+   * **Processo di Verifica:** La verifica avviene periodicamente dopo l'attuazione del progetto. Il VVB valuta le effettive riduzioni/rimozioni di GHG confrontando i risultati del progetto con la baseline, conduce ispezioni in loco, riesamina i dati di monitoraggio (richieste misurazioni del SOC almeno ogni cinque anni), verifica la gestione della qualità dei dati e conferma la permanenza. Il verificatore terzo fornisce rapporti di verifica dettagliati, che includono risultati, discrepanze e raccomandazioni, pubblicati nel registro pubblico.
+   * **Requisiti per i Rapporti:** La prassi delinea chiaramente cosa deve essere incluso nei rapporti di validazione e verifica, garantendo trasparenza, tracciabilità, accuratezza, comparabilità, completezza e coerenza. I dati e i risultati sintetizzati devono essere resi disponibili sul sito web del progetto e nel registro pubblico.
+   * **Modalità di Esecuzione delle Verifiche:** Le verifiche devono essere eseguite annualmente, alternando verifiche in loco e da remoto, con la prima verifica in loco seguita da una in remoto l'anno successivo.
+5. **Riferimenti Normativi e Scientifici:** La Prassi AgriCarbon si allinea con le Linee Guida IPCC, gli standard ISO (UNI EN ISO 14064-2, ISO 14065, ISO 14067, UNI EN ISO 14066, ISO 18400-104, UNI EN ISO/IEC 17025), metodologie specifiche come Verra VM0042 e CDM AR-AMS0007, e framework europei e nazionali (LIFE C-Farms, Regolamento UE 2018/848).
+6. **Principi Fondamentali:** La prassi si fonda su principi cardine quali **accuratezza, coerenza, completezza, conservatività e trasparenza**, essenziali per la credibilità dei crediti di carbonio generati. La trasparenza è ulteriormente rafforzata dall'uso della tecnologia blockchain per la notarizzazione dei crediti di carbonio, garantendo immutabilità e verificabilità delle transazioni e un registro pubblico.
+
+In sintesi, la Prassi AgriCarbon è un **manuale operativo dettagliato** che non solo stabilisce gli standard per i progetti di riduzione e rimozione dei GHG in agricoltura, inclusa l'afforestazione e la riforestazione, ma fornisce anche le istruzioni esplicite e le checklist per la loro implementazione, valutazione e rendicontazione, sia per i proponenti che per gli enti di controllo.
+
+{% file src="../.gitbook/assets/Prassi AgriCarbon.pdf" %}

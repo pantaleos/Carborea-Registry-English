@@ -4,7 +4,7 @@ icon: caret-right
 
 # PdR AgriCarbon
 
-The **AgriCarbon Reference Practice** is a fundamental tool that provides guidelines to all parties proposing and developing afforestation and reforestation projects, defining precise criteria and guidance so that Validation and Verification Bodies (VVBs) can carry out their reporting and certification activities.&#x20;
+The **AgriCarbon Reference Practice** is a fundamental tool that provides guidelines to all parties proposing and developing afforestation and reforestation projects, defining precise criteria and guidance so that Validation and Verification Bodies (VVBs) can carry out their reporting and certification activities.
 
 Specifically:
 
@@ -30,4 +30,4 @@ Specifically:
 
 In summary, the AgriCarbon Practice is a **detailed operational manual** that not only establishes standards for GHG reduction and removal projects in agriculture, including afforestation and reforestation, but also provides explicit instructions and checklists for their implementation, assessment and reporting, both for proponents and control bodies.
 
-{% file src="../.gitbook/assets/Prassi AgriCarbon.pdf" %}
+{% file src="../.gitbook/assets/AgriCarbon Practice Reference 1.0 (EN).pdf" %}
